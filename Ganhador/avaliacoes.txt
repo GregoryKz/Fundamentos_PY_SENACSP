@@ -1,0 +1,43 @@
+Vinicius{
+Funcionalidade: 4
+Logica:3
+Clareza:3
+}
+
+
+Diego{
+Funcionalidade: 2
+Logica:2
+Clareza:1
+}
+
+
+Tiago{
+Funcionalidade: 2
+Logica:2
+Clareza:2
+}
+
+Adriana{
+Funcionalidade: 1
+Logica:2
+Clareza:1
+}
+
+Tiago{
+Funcionalidade: 2
+Logica:2
+Clareza:2
+}
+
+Tiago{
+Funcionalidade: 2
+Logica:2
+Clareza:2
+}
+
+Tiago{
+Funcionalidade: 2
+Logica:2
+Clareza:2
+}
