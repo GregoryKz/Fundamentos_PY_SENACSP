@@ -1,1 +1,0 @@
-input('Digite seu nome:')
